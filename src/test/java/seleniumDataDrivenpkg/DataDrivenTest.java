@@ -24,9 +24,7 @@ public class DataDrivenTest {
 		System.out.println("Delete this method. Used to check Git Scenario");
 	}
 	
-	public void test12() {
-		System.out.println("Delete msg - Git practise");
-	}
+	
 	
 	public void test123_1() {
 		System.out.println("Delete msg - Git practise");
@@ -40,7 +38,12 @@ public class DataDrivenTest {
 	  }
 	  
 	  
-	 
+	 public void test() {
+		 
+		 System.out.println("Dleet method - Git ");
+	 }
+
+
 	 
 	/*
 	 * @Test(dataProvider = "excel") public void dataDrivenTest() throws IOException

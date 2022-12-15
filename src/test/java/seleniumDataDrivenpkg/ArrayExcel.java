@@ -32,14 +32,17 @@ public class ArrayExcel {
 	}
 	
 	
-	public void test123() {
-		System.out.println("Delete msg - Git practise");
+
+	public void git1() {
+		System.out.println("Delete this method. Used to check Git Scenario");
+
 	}
 	
 	
 	public void test123_1() {
 		System.out.println("Delete msg - Git practise");
 	}
+
 	
 	
 	@DataProvider(name="excell")
