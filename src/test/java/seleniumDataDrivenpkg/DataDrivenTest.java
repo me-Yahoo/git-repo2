@@ -20,7 +20,14 @@ public class DataDrivenTest {
 	 * DataDrivenTest obj = new DataDrivenTest(); Row eachRow = obj.getData(null);
 	 * System.out.println(eachRow); // System.out.println(data[0][2]); }
 	 */
+	public void git1() {
+		System.out.println("Delete this method. Used to check Git Scenario");
+	}
 	
+	
+	public void git2() {
+		System.out.println("Delete this method. Used to check Git Scenario");
+	}
 	 
 	  public static void main(String args[]) throws Exception { DataDrivenTest
 	  obj = new DataDrivenTest(); 
