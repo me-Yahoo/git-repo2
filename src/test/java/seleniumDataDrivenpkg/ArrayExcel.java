@@ -32,9 +32,7 @@ public class ArrayExcel {
 	}
 	
 	
-	public void git4() {
-		System.out.println("Delete this method. Used to check Git Scenario");
-	}
+	
 	
 	
 	@DataProvider(name="excell")

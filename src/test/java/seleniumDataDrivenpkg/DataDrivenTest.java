@@ -25,10 +25,6 @@ public class DataDrivenTest {
 	}
 	
 	
-	public void git2() {
-		System.out.println("Delete this method. Used to check Git Scenario");
-	}
-	 
 	  public static void main(String args[]) throws Exception { DataDrivenTest
 	  obj = new DataDrivenTest(); 
 	  ArrayList<String> data = obj.getData("Professional");
