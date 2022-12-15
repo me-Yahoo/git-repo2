@@ -30,11 +30,6 @@ public class ArrayExcel {
 		//Object data = getExcelData();
 		System.out.println(uname+pwd+id);
 	}
-	
-	
-	
-	
-	
 	@DataProvider(name="excell")
 	public Object[][] getExcelData() throws Exception {
 
