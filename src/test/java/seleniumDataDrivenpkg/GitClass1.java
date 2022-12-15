@@ -13,5 +13,9 @@ public class GitClass1 {
 
 	}
 	
+	public void test123_1() {
+		System.out.println("Delete msg - Git practise");
+	}
+	
 	
 }
