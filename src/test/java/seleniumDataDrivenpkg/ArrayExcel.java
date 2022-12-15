@@ -31,9 +31,17 @@ public class ArrayExcel {
 		System.out.println(uname+pwd+id);
 	}
 	
+	public void test() {
+		System.out.println("Delet method as GIT");
+	}
+
+
+	public void test2() {
+		System.out.println("Delet method as GIT");
 	
-
-
+		System.out.println("Delet method as test2");
+	}
+	
 	
 	
 	@DataProvider(name="excell")
