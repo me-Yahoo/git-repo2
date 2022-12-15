@@ -33,15 +33,6 @@ public class ArrayExcel {
 	
 	
 
-	public void git1() {
-		System.out.println("Delete this method. Used to check Git Scenario");
-
-	}
-	
-	
-	public void test123_1() {
-		System.out.println("Delete msg - Git practise");
-	}
 
 	
 	
