@@ -29,7 +29,12 @@ public class DataDrivenTest {
 	  }
 	  
 	  
-	 
+	 public void test() {
+		 
+		 System.out.println("Dleet method - Git ");
+	 }
+
+
 	 
 	/*
 	 * @Test(dataProvider = "excel") public void dataDrivenTest() throws IOException
