@@ -32,30 +32,15 @@ public class ArrayExcel {
 	}
 	
 	
-<<<<<<< HEAD
-=======
+
 	public void git1() {
 		System.out.println("Delete this method. Used to check Git Scenario");
 	}
 	
-	
-	public void git2() {
-		System.out.println("Delete this method. Used to check Git Scenario");
-	}
-	
-	public void git11() {
-		System.out.println("Delete this method. Used to check Git Scenario");
-	}
+
 	
 	
-	public void git12() {
-		System.out.println("Delete this method. Used to check Git Scenario");
-	}
-	
-	public void git4() {
-		System.out.println("Delete this method. Used to check Git Scenario");
-	}
->>>>>>> ffbfd3459520ceceac5569a271d6b81447de3692
+
 	
 	
 	@DataProvider(name="excell")
